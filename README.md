@@ -34,21 +34,6 @@ To install all these libraries do the folling steps:
 ***
 ### Repo Architecture
 
-#### Jupyter Notebook version (.ipynb)
-
-- If you want to use the notebook version to run the code, all you need is the `3D_visualization.ipynb` and to download the required DSM and DTM tiff file from the references.
-
-- Then run the code, you need to input the address and run all the cells to get a 3D representation of the given address.
-
-#### Python File version (.py)
-
-- If you want to use the python file version to run the code, you need the `main.py`, and the required DSM and DTM tiff file.     
-- For the code to run, you need to run the command `python main.py` from the terminal and enter the address that you want to get a 3D representation of the address.
-   
-#### bounds.csv
-
-- File contains all the bounds of all tiff files for the flanders region.
-- If you run `create_csv.py` the output will be stored in a `.csv` file
 
 #### requirements.txt 
 
