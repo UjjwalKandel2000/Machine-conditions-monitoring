@@ -63,7 +63,7 @@ This documentation was quite helpful in understanding the data. https://medium.c
 This project is worked-out by the following team:
 
 - [Arfameher](https://github.com/Arfameher)                                                                                    
-- [Ujjwal Kandel](https://github.com/UjjwalKandel2000) 
+- [Ujjwal Kandel](https://github.com/UjjwalK00) 
 If you wish to contribute to this repo, you are Welcome!
 You can clone this repository and create a new branch and push your changes.
 
