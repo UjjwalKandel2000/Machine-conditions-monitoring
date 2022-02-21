@@ -1,5 +1,5 @@
 # Machine-conditions-monitoring
-To give a brief itroduction of this project you can refer to the description below.
+To give a brief introduction of this project you can refer to the description below.
 - `Deployment strategy` :
   - GitHub page
   - PowerPoint
@@ -7,7 +7,7 @@ To give a brief itroduction of this project you can refer to the description bel
 
 ***
 ### Description
-This is a group project to check whether the machines working have an abnormal sound being produced and need maintenance.
+This is a group project to check whether the machines working have an abnormal sound being produced and need maintenance. We need to check for anomalous sounds and the model should be able to predict if its an anomalous sound.
 We have implemented classification models that we learnt in our BeCode Machine learning module.
 
 We tried to use different models for each machine and arrive at a good machine learning model that predicts the abnormality of a machine using the sound wave given as input.
@@ -48,6 +48,10 @@ To install all these libraries do the folling steps:
 
 ***
 ### Visuals
+This is what we have acheived for one of the machines in our project. 
+<p align="center">
+  <img src="https://github.com/ujjwalk00/Machine-conditions-monitoring/blob/main/img/fan_model/evaluation_df.PNG" />
+</p>
 
 ***
 ### References
