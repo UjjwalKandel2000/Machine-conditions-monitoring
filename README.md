@@ -67,7 +67,7 @@ This documentation was quite helpful in understanding the data. https://medium.c
 This project is worked-out by the following team:
 
 - [Arfameher](https://github.com/Arfameher)                                                                                    
-- [Ujjwal Kandel](https://github.com/UjjwalK00) 
+- [Ujjwal Kandel](https://github.com/UjjwalK00)   
 If you wish to contribute to this repo, you are Welcome!
 You can clone this repository and create a new branch and push your changes.
 
@@ -87,7 +87,6 @@ This is a group project given to us at [BeCode](https://becode.org/)
 Here is how you can contact us :
 
 LinkedIn : [Arfa Meher](https://www.linkedin.com/in/arfa-meher/)
-
 [Ujjwal Kandel](https://www.linkedin.com/in/ujjwal-kandel-10743a1bb/)
 
 Email : 
